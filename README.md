@@ -1,2 +1,2 @@
-# automation-seubarriga-web-cypress
-Esse repositório tem por finalidade realizar o desafio final do curso de testes de aplicações modernas com Cypress automatizando uma aplicação web para administração de contas
+# automacao-web-seubarriga-usando-cypress
+ esse projeto foi criado  para a realização do desafio  do curso de automação web com cypress 
