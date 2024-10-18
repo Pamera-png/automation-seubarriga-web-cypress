@@ -3,19 +3,19 @@ import LoginLogic from '../login/loginLogic';
 import loginLogic from "../login/loginLogic";
 
 
-Given("que o usuário acessa o site do seubarrigareact", () => {
+Given("que acesso o site do seubarrigareact", () => {
   LoginLogic.acessarAplicacao();
 })
 
-When('preenche o campo e-mail', () => {
+When('preencho o campo e-mail', () => {
   LoginLogic.preencherCampoEmail()
 })
 
-When('preenche o campo senha', () => {
+When('preencho o campo senha', () => {
   LoginLogic.preencherCampoSenha()
 })
 
-When('clica no botão entrar', () => {
+When('clico no botão entrar', () => {
   loginLogic.clicarBtnEntrar()
 })
 

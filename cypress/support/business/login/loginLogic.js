@@ -24,7 +24,7 @@ class LoginLogic {
     }
 
     validarUsuarioLogado() {
-        cy.xpath(loginPage.lblMsgBemVindo())
+        cy.xpath(loginPage.getLblMsgBemVindo())
             .should('visible')
     }
 }

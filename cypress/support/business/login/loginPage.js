@@ -16,7 +16,7 @@ class LoginPage {
         return btnEntrar
     }
 
-    get lblMsgBemVindo() {
+    getLblMsgBemVindo() {
         return lblBemVindo
     }
 }
